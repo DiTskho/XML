@@ -1,8 +1,8 @@
 <xml>
-<Status>Closed</Status>
-  <Priority>Medium</Priority>
-  <Category>QA</Category>
-  <Deployed to>not deployed</Deployed to>
-  <Type of task>Operational</Type of task>
-  <Updated by>DiTskho</Updated by>
-<xml>
+<Summary>Error messages in the login form are displayed in English</Summary>
+<Environment>All browsers/devices</Environment>
+<Severity>Major</Severity>
+<Steps_to_Reproduce>Pay attention to error messages</Steps_to_Reproduce>
+<Actual_Result>Error messages in the login form are displayes in the English</Actual_Result>
+<Expected_Result>Errir messages in the login form are displayes in the chosen language</Expected_Result>
+</xml>
