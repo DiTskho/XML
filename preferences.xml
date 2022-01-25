@@ -1,4 +1,7 @@
 <xml>
-<Favorite film>Harry Potter</Favorite film>
-<Favorite book>idiot</Favorite book>
-<xml>
+<my_favorite_movie>inception</my_favorite_movie>
+<favorite_TV_series>scrubs</favorite_TV_series>
+<favorite_food>pasta</favorite_food> 
+<favorite_time_of_year>winter</favorite_time_of_year> 
+<country_you_would_like_to_visit>Japan</country_you_would_like_to_visit>
+</xml>
