@@ -1,4 +1,7 @@
 <xml>
-<Sklls>Theory</Sklls>
-<Sklls>GUI,API,ClI</Sklls>
-<xml>
+<sklls>Testing API via Postman</sklls>
+<sklls>Python</sklls>
+<sklls>Basic Theory</sklls>
+<sklls>SQL Basics</sklls>
+<sklls>Basicsof bash scripting</sklls>
+</xml>
